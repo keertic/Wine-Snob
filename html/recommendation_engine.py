@@ -13,7 +13,7 @@ user_id = sys.argv[1]
 # make the db connection
 wine_snob = mysql.connector.connect(
 host="127.0.0.1",
-user="pdey3",
+user="keertic2",
 passwd="cs411",
 database="wine_snob",
 auth_plugin='mysql_native_password'
